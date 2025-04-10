@@ -1,7 +1,7 @@
 # python-journey.
 # I'm here to dominate
 ## Usage
-Clone the repository and run the Python scripts: git clone https://github.com/farukshimul18/python-journey..git
+Clone the repository and run the Python scripts: git clone https://github.com/farukshimul18/python-journey.git
 python script_name.py
 # Python Journey
 
